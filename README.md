@@ -1,4 +1,4 @@
 # EV Website App
 
-[Live Demo](https://hpev.netlify.app/)
+[Live Demo](https://hasithaprageeth.github.io/ev-website/)
 
